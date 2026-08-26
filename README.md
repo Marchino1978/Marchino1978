@@ -1,5 +1,5 @@
 <table width="100%">
-  <!-- REPO INDEX  -->
+
   <tr>
     <td width="50%" align="center" valign="top">
       <font color="gold"><strong>portfolio</strong></font>
@@ -18,6 +18,35 @@
       <font color="gold"><i>A smart home IoT ecosystem built with ESP32-C3 mini and Supabase. Features zero-false-alarm power outage detection via Telegram, offline sensor data buffering (temp/humidity), web dashboard charts, and an integrated security alarm system.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/dom-us"><strong>https://github.com/Marchino1978/dom-us</strong></a>      
+          </td>
+  </tr>
+ 
+</table>
+
+<table width="100%">
+
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <!--
+      <font color="gold"><strong>infRAWred</strong></font>
+      <br>
+      <img src="https://raw.githubusercontent.com/Marchino1978/infRAWred/main/img/_splash_.png" alt="infRAWred" width="50%"><br>
+      <br>
+      <font color="gold"><i>ESP32 raw IR sniffer with TELEGRAM integration</i></font>
+      <br>
+      <a href="https://github.com/Marchino1978/infRAWred"><strong>https://github.com/Marchino1978/infRAWred</strong></a>
+      -->
+          </td>
+    <td width="50%" align="center" valign="top">
+      <!--
+      <font color="gold"><strong>repo4</strong></font>
+      <br>
+      <img src="https://raw.githubusercontent.com/Marchino1978/repo4/main/img/_splash_.png" alt="repo4" width="50%"><br>
+      <br>
+      <font color="gold"><i>About4.</i></font>
+      <br>
+      <a href="https://github.com/Marchino1978/repo4"><strong>https://github.com/Marchino1978/repo4</strong></a>
+      -->
           </td>
   </tr>
  
