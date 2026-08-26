@@ -5,7 +5,7 @@
       <font color="gold"><strong>portfolio</strong></font>
       <br>
       <a href="#!">
-        <img src="https://raw.githubusercontent.com/Marchino1978/portfolio/main/img/_splash_.png" alt="portfolio" width="50%" style="pointer-events: none;"><br>
+        <img src="https://raw.githubusercontent.com/Marchino1978/portfolio/main/img/_splash_.png" alt="portfolio" width="50%""><br>
       </a>
       <br>
       <font color="gold"><i>Python portfolio tracker (ETFs, funds, BTPs, certificates) with Supabase, Telegram reports, Alexa alerts, ESP32 smart display, and home automation triggers.</i></font>
