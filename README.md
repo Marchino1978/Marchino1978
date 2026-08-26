@@ -20,10 +20,6 @@
       <a href="https://github.com/Marchino1978/dom-us"><strong>https://github.com/Marchino1978/dom-us</strong></a>      
           </td>
   </tr>
- 
-</table>
-
-<table width="100%">
 
   <tr>
     <td width="50%" align="center" valign="top">
