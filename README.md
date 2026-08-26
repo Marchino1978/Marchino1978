@@ -31,10 +31,8 @@
       <font color="gold"><i>ESP32 raw IR sniffer with TELEGRAM integration</i></font>
       <br>
       <a href="https://github.com/Marchino1978/infRAWred"><strong>https://github.com/Marchino1978/infRAWred</strong></a>
-      -->
           </td>
     <td width="50%" align="center" valign="top">
-      <!--
       <font color="gold"><strong>repo4</strong></font>
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/repo4/main/img/_splash_.png" alt="repo4" width="50%"><br>
