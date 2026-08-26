@@ -11,7 +11,7 @@
       <a href="https://github.com/Marchino1978/portfolio"><strong>https://github.com/Marchino1978/portfolio</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
-      <font color="gold"><i>dom-us</i></font>
+      <font color="gold"><strong>dom-us</strong></font>
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/dom-us/main/img/_splash_.png" alt="dom-us" width="50%"><br>
       <br>
