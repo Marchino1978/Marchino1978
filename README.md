@@ -21,9 +21,9 @@
           </td>
   </tr>
 
+  <!--
   <tr>
     <td width="50%" align="center" valign="top">
-      <!--
       <font color="gold"><strong>infRAWred</strong></font>
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/infRAWred/main/img/_splash_.png" alt="infRAWred" width="50%"><br>
@@ -40,8 +40,7 @@
       <font color="gold"><i>About4.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/repo4"><strong>https://github.com/Marchino1978/repo4</strong></a>
-      -->
           </td>
   </tr>
- 
+  -->
 </table>
