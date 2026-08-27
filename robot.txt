@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Marchino1978.github.io/sitemap.xml
+Sitemap: https://raw.githubusercontent.com/Marchino1978/Marchino1978/main/sitemap.xml
