@@ -3,7 +3,7 @@
 
   <!-- INDEX -->
   <url>
-    <loc>https://github.com/Marchino1978/Marchino1978</loc>
+    <loc>https://github.com/Marchino1978/</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -22,7 +22,7 @@
     <loc>https://github.com/Marchino1978/portfolio</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
   <!-- 2. DOM-US: Sito Web (GitHub Pages) -->
@@ -38,7 +38,7 @@
     <loc>https://github.com/Marchino1978/dom-us</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
