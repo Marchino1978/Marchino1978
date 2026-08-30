@@ -27,7 +27,7 @@
 
   <!-- 2. DOM-US: Sito Web (GitHub Pages) -->
   <url>
-    <loc>https://marchino1978.github.io/dom-us/</loc>
+    <loc>https://marchino1978.github.io/dom-US/</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -35,7 +35,7 @@
 
   <!-- DOM-US: Codice Sorgente -->
   <url>
-    <loc>https://github.com/Marchino1978/dom-us</loc>
+    <loc>https://github.com/Marchino1978/dom-US</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
