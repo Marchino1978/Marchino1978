@@ -35,7 +35,7 @@
     <td width="50%" align="center" valign="top">
       <font color="gold"><strong>blastIRohm</strong></font>
       <br>
-      <img src="https://raw.githubusercontent.com/Marchino1978/blastIRohm/main/img/_splash_.png" alt="repo4" width="50%"><br>
+      <img src="https://raw.githubusercontent.com/Marchino1978/blastIRohm/main/img/_splash_.png" alt="Un microcontrollore ESP32 con una faccia da cartone animato su una breadboard, che legge un foglio con occhiali da sole. A sinistra, un vecchio monitor CRT mostra codice C++ 'IRremote.h'. Il tavolo è pieno di LED IR e strumenti | An ESP32 microcontroller with a cartoon face on a breadboard, reading a paper with sunglasses. To the left, an old CRT monitor displays C++ 'IRremote.h' code. The table is cluttered with IR LEDs and tools" width="50%"><br>
       <br>
       <font color="gold"><i>ESP32 raw IR blaster</i></font>
       <br>
