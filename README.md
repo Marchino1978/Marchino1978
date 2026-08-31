@@ -33,13 +33,13 @@
       <a href="https://github.com/Marchino1978/infRAWred"><strong>https://github.com/Marchino1978/infRAWred</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
-      <font color="gold"><strong>repo4</strong></font>
+      <font color="gold"><strong>blastIRohm</strong></font>
       <br>
-      <img src="https://raw.githubusercontent.com/Marchino1978/repo4/main/img/_splash_.png" alt="repo4" width="50%"><br>
+      <img src="https://raw.githubusercontent.com/Marchino1978/blastIRohm/main/img/_splash_.png" alt="repo4" width="50%"><br>
       <br>
-      <font color="gold"><i>About4.</i></font>
+      <font color="gold"><i>ESP32 raw IR blaster</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/repo4"><strong>https://github.com/Marchino1978/repo4</strong></a>
+      <a href="https://github.com/Marchino1978/blastIRohm"><strong>https://github.com/Marchino1978/blastIRohm</strong></a>
           </td>
   </tr>
   -->
