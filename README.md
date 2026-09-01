@@ -6,7 +6,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/portfolio/main/img/_splash_.png" alt="Postazione di lavoro con microcontrollore ESP32 su breadboard e un piccolo schermo touch che mostra grafici finanziari, circondato da un quaderno, una tazza di caffè e una pila di monete Euro. Sullo sfondo, una matrice di monitor multipli visualizza grafici di borsa in tempo reale | Workstation featuring an ESP32 microcontroller on a breadboard and a small touch screen displaying financial charts, surrounded by a notebook, a coffee mug, and a stack of Euro coins. In the background, an array of multiple monitors displays live stock market charts" width="50%"><br>
       <br>
-      <font color="gold"><i>-Python portfolio tracker (ETFs, funds, BTPs, certificates) with Supabase, Telegram reports, Alexa alerts, ESP32 smart display, and home automation triggers.</i></font>
+      <font color="gold"><i>Python portfolio tracker (ETFs, funds, BTPs, certificates) with Supabase, Telegram reports, Alexa alerts, ESP32 smart display, and home automation triggers.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/portfolio"><strong>https://github.com/Marchino1978/portfolio</strong></a>
           </td>
