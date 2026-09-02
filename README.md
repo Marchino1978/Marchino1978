@@ -33,6 +33,7 @@
       <font color="gold"><i>ESP32-C3 serverless IR sniffer featuring continuous RAW pulse capture and instant Telegram Bot telemetry dispatch for reverse engineering.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/infRAWred"><strong>https://github.com/Marchino1978/infRAWred</strong></a>
+      <a href="https://marchino1978.github.io/infRAWred/"><strong>https://marchino1978.github.io/infRAWred/</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
       <font color="gold"><strong>blastIRohm</strong></font>
@@ -42,6 +43,7 @@
       <font color="gold"><i>ESP32-C3 standalone high-power IR blaster featuring multi-LED arrays and precise microsecond RAW pulse playback for complex protocols.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/blastIRohm"><strong>https://github.com/Marchino1978/blastIRohm</strong></a>
+      <a href="https://marchino1978.github.io/blastIRohm/"><strong>https://marchino1978.github.io/blastIRohm/</strong></a>
           </td>
   </tr>
   -->
