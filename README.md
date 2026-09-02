@@ -1,5 +1,5 @@
 <div align="center">
-.
+Marchino1978
 </div>
 
 <table width="100%">
@@ -13,6 +13,7 @@
       <font color="gold"><i>Python portfolio tracker (ETFs, funds, BTPs, certificates) with Supabase, Telegram reports, Alexa alerts, ESP32 smart display, and home automation triggers.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/portfolio"><strong>https://github.com/Marchino1978/portfolio</strong></a>
+      <a href="https://marchino1978.github.io/portfolio/"><strong>https://marchino1978.github.io/portfolio/</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
       <font color="gold"><strong>dom-US</strong></font>
@@ -21,7 +22,8 @@
       <br>
       <font color="gold"><i>A smart home IoT ecosystem built with ESP32-C3 mini and Supabase. Features zero-false-alarm power outage detection via Telegram, offline sensor data buffering (temp/humidity), web dashboard charts, and an integrated security alarm system.</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/dom-US"><strong>https://github.com/Marchino1978/dom-US</strong></a>      
+      <a href="https://github.com/Marchino1978/dom-US"><strong>https://github.com/Marchino1978/dom-US</strong></a>
+      <a href="https://marchino1978.github.io/dom-US/"><strong>https://marchino1978.github.io/dom-US/</strong></a>
           </td>
   </tr>
 
