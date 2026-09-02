@@ -1,7 +1,3 @@
-<div align="center">
-Marchino1978
-</div>
-
 <table width="100%">
 
   <tr>
