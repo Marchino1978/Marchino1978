@@ -40,7 +40,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/blastIRohm/main/img/_splash_.png" alt="Un microcontrollore ESP32 con una faccia da cartone animato su una breadboard, che legge un foglio con occhiali da sole. A sinistra, un vecchio monitor CRT mostra codice C++ 'IRremote.h'. Il tavolo è pieno di LED IR e strumenti | An ESP32 microcontroller with a cartoon face on a breadboard, reading a paper with sunglasses. To the left, an old CRT monitor displays C++ 'IRremote.h' code. The table is cluttered with IR LEDs and tools" width="50%"><br>
       <br>
-      <font color="gold"><i>ESP32-C3 standalone high-power IR blaster featuring multi-LED arrays and precise microsecond RAW pulse playback for complex protocols.</i></font>
+      <font color="gold"><i>ESP32-C3 standalone high-power IR blaster featuring multi-LED arrays and precise microsecond RAW pulse playback for complex protocols, and interactive Telegram Bot testing.</i></font>
       <br>
       <a href="https://github.com/Marchino1978/blastIRohm"><strong>https://github.com/Marchino1978/blastIRohm</strong></a>
       <a href="https://marchino1978.github.io/blastIRohm/"><strong>https://marchino1978.github.io/blastIRohm/</strong></a>
