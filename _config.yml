@@ -3,7 +3,7 @@ theme: jekyll-theme-hacker
 title: "Repository INDEX"
 description: "Repository INDEX"
 url: "https://marchino1978.github.io"
-baseurl: "/Marchino1978"
+baseurl: "/marchino1978"
 
 plugins:
   - jekyll-seo-tag
