@@ -8,8 +8,8 @@
       <br>
       <font color="gold"><i>Python portfolio tracker (ETFs, funds, BTPs, certificates) with Supabase, Telegram reports, Alexa alerts, ESP32 smart display, and home automation triggers.</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/portfolio"><strong>https://github.com/Marchino1978/portfolio</strong></a>
-      <a href="https://marchino1978.github.io/portfolio/"><strong>https://marchino1978.github.io/portfolio/</strong></a>
+      <a href="https://github.com/Marchino1978/portfolio"><strong>GitHub Repository</strong></a>
+      <a href="https://marchino1978.github.io/portfolio/"><strong>Project Website</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
       <font color="gold"><strong>dom-US</strong></font>
@@ -18,8 +18,8 @@
       <br>
       <font color="gold"><i>A smart home IoT ecosystem built with ESP32-C3 mini and Supabase. Features zero-false-alarm power outage detection via Telegram, offline sensor data buffering (temp/humidity), web dashboard charts, and an integrated security alarm system.</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/dom-US"><strong>https://github.com/Marchino1978/dom-US</strong></a>
-      <a href="https://marchino1978.github.io/dom-US/"><strong>https://marchino1978.github.io/dom-US/</strong></a>
+      <a href="https://github.com/Marchino1978/dom-US"><strong>GitHub Repository</strong></a>
+      <a href="https://marchino1978.github.io/dom-US/"><strong>Project Website</strong></a>
           </td>
   </tr>
 
@@ -32,8 +32,8 @@
       <br>
       <font color="gold"><i>ESP32-C3 serverless IR sniffer featuring continuous RAW pulse capture and instant Telegram Bot telemetry dispatch for reverse engineering.</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/infRAWred"><strong>https://github.com/Marchino1978/infRAWred</strong></a>
-      <a href="https://marchino1978.github.io/infRAWred/"><strong>https://marchino1978.github.io/infRAWred/</strong></a>
+      <a href="https://github.com/Marchino1978/infRAWred"><strong>GitHub Repository</strong></a>
+      <a href="https://marchino1978.github.io/infRAWred/"><strong>Project Website</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
       <font color="gold"><strong>blastIRohm</strong></font>
@@ -42,8 +42,8 @@
       <br>
       <font color="gold"><i>ESP32-C3 standalone high-power IR blaster featuring multi-LED arrays and precise microsecond RAW pulse playback for complex protocols, and interactive Telegram Bot testing.</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/blastIRohm"><strong>https://github.com/Marchino1978/blastIRohm</strong></a>
-      <a href="https://marchino1978.github.io/blastIRohm/"><strong>https://marchino1978.github.io/blastIRohm/</strong></a>
+      <a href="https://github.com/Marchino1978/blastIRohm"><strong>GitHub Repository</strong></a>
+      <a href="https://marchino1978.github.io/blastIRohm/"><strong>Project Website</strong></a>
           </td>
   </tr>
   -->
