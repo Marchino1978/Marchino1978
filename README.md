@@ -8,7 +8,7 @@
       <br>
       <font color="gold"><i>Python portfolio tracker (ETFs, funds, BTPs, certificates) with Supabase, Telegram reports, Alexa alerts, ESP32 smart display, and home automation triggers.</i></font>
       <br>
-      <a href="https://github.com/Marchino1978/portfolio"><strong>GitHub Repository</strong></a>
+      <a href="https://github.com/Marchino1978/portfolio"><strong>GitHub Repository</strong></a><br>
       <a href="https://marchino1978.github.io/portfolio/"><strong>Project Website</strong></a>
           </td>
     <td width="50%" align="center" valign="top">
