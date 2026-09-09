@@ -5,6 +5,8 @@ description: "Repository INDEX"
 url: "https://marchino1978.github.io"
 baseurl: ""
 
+google_site_verification: <meta name="google-site-verification" content="281O-yML_ohanee0iyLxOd_9-EvMqOgNIDNAhmnlzu8" />
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
