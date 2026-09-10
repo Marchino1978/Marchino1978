@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 
-title: "Repository INDEX"
-description: "Repository INDEX"
+title: "ESP32, IoT & Home Automation Projects"
+description: "A collection of ESP32 and IoT projects exploring smart home automation, sensors, security systems, dashboards, notifications, and integrations with cloud services."
 url: "https://marchino1978.github.io"
 baseurl: ""
 
